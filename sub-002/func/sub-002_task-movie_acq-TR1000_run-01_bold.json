@@ -148,79 +148,11 @@
         83,
         -30
     ],
-    "MRIHardware": {
-        "MagneticFieldStrength": 3,
-        "ReceiveCoilName": "HeadNeck_20",
-        "ReceiveCoilActiveElements": "HE1-4;NE1,2"
-    },
-    "MRISpatialEncoding": {
-        "PhaseEncodingDirection": "j",
-        "EffectiveEchoSpacing": 0.000579989,
-        "TotalReadoutTime": 0.052779
-    },
-    "MRISequenceSpecifics": {
-        "MultibandAccelerationFactor": 4,
-        "PulseSequenceDetails": "%CustomerSeq%\\cmrr_mbep2d_bold"
-    },
-    "MRIFuncTimingParameters": {
-        "RepetitionTime": 1,
-        "SliceTiming": [
-            0,
-            0.5275,
-            0.075,
-            0.6025,
-            0.15,
-            0.68,
-            0.2275,
-            0.755,
-            0.3025,
-            0.83,
-            0.3775,
-            0.905,
-            0.4525,
-            0,
-            0.5275,
-            0.075,
-            0.6025,
-            0.15,
-            0.68,
-            0.2275,
-            0.755,
-            0.3025,
-            0.83,
-            0.3775,
-            0.905,
-            0.4525,
-            0,
-            0.5275,
-            0.075,
-            0.6025,
-            0.15,
-            0.68,
-            0.2275,
-            0.755,
-            0.3025,
-            0.83,
-            0.3775,
-            0.905,
-            0.4525,
-            0,
-            0.5275,
-            0.075,
-            0.6025,
-            0.15,
-            0.68,
-            0.2275,
-            0.755,
-            0.3025,
-            0.83,
-            0.3775,
-            0.905,
-            0.4525
-        ]
-    },
-    "MRIFuncTaskInformation": {
-        "TaskDescription": "Passive movie watching",
-        "Instructions": "Keep eyes open and watch the movie"
-    }
+    "TaskDescription": "Passive movie watching",
+    "Instructions": "Keep eyes open and watch the movie",
+    "PhaseEncodingAxis": "A>>P",
+    "SliceEncodingDirection": "k",
+    "NumberOfVolumesDiscardedByScanner": 0,
+    "NumberOfVolumesDiscardedByUser": 0,
+    "DelayTime": 0
 }
