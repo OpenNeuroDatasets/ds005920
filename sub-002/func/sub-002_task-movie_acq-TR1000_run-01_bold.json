@@ -1,5 +1,5 @@
 {
-    "TaskName": "Movie",
+    "TaskName": "movie",
     "Modality": "MR",
     "MagneticFieldStrength": 3,
     "ImagingFrequency": 123.247,
