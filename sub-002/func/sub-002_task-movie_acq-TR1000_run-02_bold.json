@@ -130,5 +130,9 @@
     "DelayTime": 0,
     "ParallelReductionFactorInPlane": 3,
     "ParallelReductionType": "GRAPPA",
-    "PulseSequenceType": "Multiband Gradient Echo EPI"
+    "PulseSequenceType": "Multiband Gradient Echo EPI",
+    "ParallelAcquisitionTechnique": "GRAPPA",
+    "CoilCombinationMethod": "Sum of Squares",
+    "MTState": "Off",
+    "SpoilingState": "Off"
 }
