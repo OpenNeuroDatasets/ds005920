@@ -14,7 +14,10 @@
     "SoftwareVersions": "syngo MR E11",
     "MRAcquisitionType": "2D",
     "ScanningSequence": "EP",
-    "SequenceVariant": "SK\\SS",
+    "SequenceVariant": [
+        "SK",
+        "SS"
+    ],
     "ScanOptions": "FS",
     "SequenceName": "epfid2d1_92",
     "SeriesNumber": 7,
@@ -132,7 +135,5 @@
     "ParallelReductionType": "GRAPPA",
     "PulseSequenceType": "Multiband Gradient Echo EPI",
     "ParallelAcquisitionTechnique": "GRAPPA",
-    "CoilCombinationMethod": "Sum of Squares",
-    "MTState": "Off",
-    "SpoilingState": "Off"
+    "CoilCombinationMethod": "Adaptive Combine"
 }
