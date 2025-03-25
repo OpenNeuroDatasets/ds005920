@@ -114,6 +114,5 @@
     "CoilCombinationMethod": "Adaptive Combine",
     "FatSuppression": "Fat sat.",
     "PrescanNormalize": "On",
-    "AcquisitionDuration": 1432.0,
     "TaskInstructions": "Keep eyes open and watch the movie"
 }
